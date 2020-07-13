@@ -1,0 +1,13 @@
+Este es un proyecto para prueba de nuevos comandos de git
+
+se trata de una pagina hecha en booststrap
+
+Donde se utiliza un nav-bar, un slider carousel y una seccion de cards
+
+Editando el index
+
+Colaboradores
+
+1.-Alejandro
+2.-Marco Ivan
+3.-Elesvan Arturo Lopez Lima
